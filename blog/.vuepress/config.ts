@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 
-const userBase = 'vuepress-blog';
+const userBase = 'vupress-blog';
 
 export default defineUserConfig({
   lang: "zh-CN",
