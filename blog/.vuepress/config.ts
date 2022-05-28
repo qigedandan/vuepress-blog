@@ -1,11 +1,11 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 
-const userBase = 'blog';
+const userBase = 'vuepress-blog';
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "主题演示", // TODO: 主题演示
+  title: "旦旦的博客", // TODO: 主题演示
   description: "vuepress-theme-hope 的演示",
 
   base: `/${userBase}/`,

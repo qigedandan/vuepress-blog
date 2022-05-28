@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "jinweiOS/blog", // TODO: 修改默认跳转仓库
+  repo: "qigedandan", // TODO: 修改默认跳转仓库
 
   docsDir: "blog",
 
@@ -34,7 +34,7 @@ export default hopeTheme({
     description: "一个前端开发者", //TODO: 一个前端开发者
     intro: "/intro.html",
     medias: {
-      GitHub: "https://github.com" // TODO: 有人self github
+      GitHub: "https://github.com/qigedandan" // TODO: 有人self github
     },
   },
 
